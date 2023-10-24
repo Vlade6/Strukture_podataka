@@ -1,3 +1,0 @@
-﻿  PRVI_ZADATAK.c
-D:\Documents\FAKS\STRUKTURE\Strukture_podataka\PRVI_ZADATAK\PRVI_ZADATAK\PRVI_ZADATAK.c(53,14): warning C4477: 'fscanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 3 has type 'int *'
-  PRVI_ZADATAK.vcxproj -> D:\Documents\FAKS\STRUKTURE\Strukture_podataka\PRVI_ZADATAK\x64\Debug\PRVI_ZADATAK.exe

@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: PRVI ZADATAK, Configuration: Debug x64 ------
+1>PRVI ZADATAK.vcxproj -> D:\Documents\FAKS\STRUKTURE\Strukture_podataka\PRVI ZADATAK\x64\Debug\PRVI ZADATAK.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 15:04 and took 00.359 seconds ==========
