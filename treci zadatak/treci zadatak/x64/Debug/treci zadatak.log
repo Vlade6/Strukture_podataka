@@ -1,0 +1,4 @@
+﻿  trecizad.c
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\treci zadatak\treci zadatak\trecizad.c(225): warning C4715: 'upisUDatoteku': not all control paths return a value
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\treci zadatak\treci zadatak\trecizad.c(239): warning C4715: 'ispisIzDatoteke': not all control paths return a value
+  treci zadatak.vcxproj -> D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\treci zadatak\x64\Debug\treci zadatak.exe
