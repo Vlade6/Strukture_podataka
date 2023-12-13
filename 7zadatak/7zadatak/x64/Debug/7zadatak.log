@@ -1,0 +1,23 @@
+﻿  7zadatak.c
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\7zadatak\7zadatak\7zadatak.c(1,1): error C2059: syntax error: '?'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(386,61): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(386,61): error C2061: syntax error: identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(386,61): error C2059: syntax error: ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(386,73): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(387,77): error C2146: syntax error: missing ')' before identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(387,77): error C2061: syntax error: identifier '_StackCookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(387,77): error C2059: syntax error: ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(387,89): error C2059: syntax error: ')'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(391,18): error C2061: syntax error: identifier '__security_cookie'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\vcruntime.h(391,18): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(368,10): error C2081: 'uintptr_t': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2146: syntax error: missing ')' before identifier '_Reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2081: 'uintptr_t': name in formal parameter list illegal
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2061: syntax error: identifier '_Reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,26): error C2059: syntax error: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(380,35): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stddef.h(57,27): error C2143: syntax error: missing '{' before '__cdecl'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(168,10): error C2081: 'uintptr_t': name in formal parameter list illegal
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\7zadatak\7zadatak\7zadatak.c(65,13): warning C4013: 'listSubdirectories' undefined; assuming extern returning int
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\7zadatak\7zadatak\7zadatak.c(107,20): warning C4133: 'function': incompatible types - from 'PositionDirectory' to 'const char *'
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\7zadatak\7zadatak\7zadatak.c(119,16): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'PositionDirectory'
