@@ -1,0 +1,7 @@
+﻿  6zadatak.c
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\Project1\Project1\6zadatak.c(214,12): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1250)
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\Project1\Project1\6zadatak.c(217,12): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1250)
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\Project1\Project1\6zadatak.c(248,16): warning C4566: character represented by universal-character-name '\u00F0' cannot be represented in the current code page (1250)
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\Project1\Project1\6zadatak.c(252,12): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1250)
+D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\Project1\Project1\6zadatak.c(253,12): warning C4566: character represented by universal-character-name '\u00E8' cannot be represented in the current code page (1250)
+  Project1.vcxproj -> D:\Documents\FAKS\STRUKTURE\STRUKTURE\Strukture_podataka\Project1\x64\Debug\Project1.exe
